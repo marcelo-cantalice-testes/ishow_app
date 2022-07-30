@@ -112,7 +112,7 @@ class _HomeState extends State<Home> {
                   Text(
                     "Esqueci minha senha",
                     style: TextStyle(
-                        color: Color.fromRGBO(255, 100, 127, 1),
+                        //color: Color.fromRGBO(255, 100, 127, 1),
                         fontWeight: FontWeight.bold),
                   )
                 ],
